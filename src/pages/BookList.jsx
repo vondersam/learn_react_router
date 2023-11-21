@@ -10,6 +10,9 @@ export function BookList() {
       <li>
         <Link to="/books/2">Book 2</Link>
       </li>
+      <li>
+        <Link to="/books/new">New Book</Link>
+      </li>
     </>
   );
 }
